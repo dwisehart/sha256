@@ -16,7 +16,7 @@ written in Python.
 
 ## Implementation status ##
 
-The original core has been completed for a long time and been used in
+The original core was completed long ago and been used in
 several designs in ASICs as well as in FPGAs. The core is mature and
 ready for use. Minor changes are non-functional cleanups of code.
 
@@ -49,10 +49,7 @@ registers. This allows you to load a new block while the core is
 processing the previous block.
 
 
-## ASIC-results ##
-
-
-## Fpga-results ##
+## FPGA-results ##
 
 ### Xilinx FPGAs ###
 Implementation results using Vivado 2017.2.
